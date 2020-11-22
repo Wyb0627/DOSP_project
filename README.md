@@ -27,7 +27,7 @@ Where numNodes is the number of actors involved (for 2D based topologies you can
 **Output:** Print the amount of time it took to achieve convergence of the algorithm.
 
 ## Project 3
-The goal of this project is to implement in F# using the actor model the Pastry protocol and a simple object access service to prove its usefulness. The specification of the Pastry protocol can be found in the paper Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems.by A. Rowstron and P. Druschel(http://rowstron.azurewebsites.net/PAST/pastry.pdf).The network join and routing as described in the Pastry paper were implemented by the code.
+The goal of this project is to implement in F# using the actor model the **Pastry protocol** and a simple object access service to prove its usefulness. The specification of the Pastry protocol can be found in the paper **Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems.by A. Rowstron and P. Druschel(http://rowstron.azurewebsites.net/PAST/pastry.pdf)**. The network join and routing as described in the Pastry paper were implemented by the code.
 
 **Input:** The input provided (as command line to yourproject3) will be of the form:
 

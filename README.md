@@ -1,5 +1,5 @@
 # DOSP_project
-DOSP class project at UF in 2020 Fall, using F#
+DOSP(Distributed Operating System Principles) class project at UF in 2020 Fall, using F#
 
 ## Project 1
 The goal of this first project is to use F# and the actor model to build a good solution to this problem that runs well on multi-core machines.

@@ -41,17 +41,27 @@ Where numNodesis the number of peers to be created in the peer to peer system an
 In this project, Twitter Clone and a client tester/simulator were implemented.
 
 1. Implement a Twitter like engine with the following functionality:
+   
    -Register account
+   
    -Send tweet. Tweets can have hashtags (e.g. #COP5615isgreat) and mentions (@bestuser)
+   
    -Subscribe to user's tweets
+   
    -Re-tweets (so that your subscribers get an interesting tweet you got by other means)
+   
    -Allow querying tweets subscribed to, tweets with specific hashtags, tweets in which the user is mentioned (my mentions)
+   
    -If the user is connected, deliver the above types of tweets live (without querying)
    
 2. Implement a tester/simulator to test the above
+   
    -Simulate as many users as possible
+   
    -Simulate periods of live connection and disconnection for users
+   
    -Simulate a Zipf distribution on the number of subscribers. For accounts with a lot of subscribers, increase the number of tweets. Make some of these messages re-tweets
    
 3. Other considerations:
+   
    -The client part (send/receive tweets) and the engine (distribute tweets) are in separate processes.

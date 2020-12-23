@@ -1,0 +1,40 @@
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.deps.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.deps.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.fsprojAssemblyReference.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfoInputs.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfo.fs
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.deps.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.deps.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\bin\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore\obj\Debug\netstandard2.0\WebSharper.AspNetCore.pdb

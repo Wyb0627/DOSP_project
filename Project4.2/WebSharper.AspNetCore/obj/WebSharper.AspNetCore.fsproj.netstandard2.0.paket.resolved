@@ -1,0 +1,16 @@
+FSharp.Core,4.3.4,Transitive,Main,false,true
+Microsoft.Extensions.DependencyInjection.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.Extensions.Hosting.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.Extensions.Logging.Abstractions,2.0,Transitive,Main,false,true
+System.Runtime.CompilerServices.Unsafe,4.4,Transitive,Main,false,true
+Microsoft.Extensions.Primitives,2.0,Transitive,Main,false,true
+Microsoft.AspNetCore.Http.Features,2.0,Transitive,Main,false,true
+Microsoft.Extensions.Configuration.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.AspNetCore.Hosting.Server.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.Extensions.FileProviders.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.Extensions.Options,2.0,Transitive,Main,false,true
+System.Text.Encodings.Web,4.4,Transitive,Main,false,true
+Microsoft.AspNetCore.Http.Abstractions,2.0,Transitive,Main,false,true
+Microsoft.AspNetCore.Authentication.Abstractions,2.0,Direct,Main,false,true
+Microsoft.AspNetCore.Hosting.Abstractions,2.0,Direct,Main,false,true
+WebSharper,4.7.0.423,Direct,Main,false,true

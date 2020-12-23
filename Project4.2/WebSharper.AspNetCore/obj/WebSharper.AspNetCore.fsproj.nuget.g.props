@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Kai\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.7.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="$([MSBuild]::EnsureTrailingSlash($(NuGetPackageFolders)))" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Kai\.nuget\packages\fsharp.core\4.3.4</PkgFSharp_Core>
+    <PkgWebSharper Condition=" '$(PkgWebSharper)' == '' ">C:\Users\Kai\.nuget\packages\websharper\4.7.0.423</PkgWebSharper>
+    <PkgSystem_Text_Encodings_Web Condition=" '$(PkgSystem_Text_Encodings_Web)' == '' ">C:\Users\Kai\.nuget\packages\system.text.encodings.web\4.4.0</PkgSystem_Text_Encodings_Web>
+    <PkgSystem_Runtime_CompilerServices_Unsafe Condition=" '$(PkgSystem_Runtime_CompilerServices_Unsafe)' == '' ">C:\Users\Kai\.nuget\packages\system.runtime.compilerservices.unsafe\4.4.0</PkgSystem_Runtime_CompilerServices_Unsafe>
+    <PkgNETStandard_Library Condition=" '$(PkgNETStandard_Library)' == '' ">C:\Users\Kai\.nuget\packages\netstandard.library\2.0.3</PkgNETStandard_Library>
+    <PkgMicrosoft_Extensions_Primitives Condition=" '$(PkgMicrosoft_Extensions_Primitives)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.primitives\2.0.0</PkgMicrosoft_Extensions_Primitives>
+    <PkgMicrosoft_Extensions_DependencyInjection_Abstractions Condition=" '$(PkgMicrosoft_Extensions_DependencyInjection_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\2.0.0</PkgMicrosoft_Extensions_DependencyInjection_Abstractions>
+    <PkgMicrosoft_Extensions_Options Condition=" '$(PkgMicrosoft_Extensions_Options)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.options\2.0.0</PkgMicrosoft_Extensions_Options>
+    <PkgMicrosoft_Extensions_Logging_Abstractions Condition=" '$(PkgMicrosoft_Extensions_Logging_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.logging.abstractions\2.0.0</PkgMicrosoft_Extensions_Logging_Abstractions>
+    <PkgMicrosoft_Extensions_Hosting_Abstractions Condition=" '$(PkgMicrosoft_Extensions_Hosting_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.hosting.abstractions\2.0.0</PkgMicrosoft_Extensions_Hosting_Abstractions>
+    <PkgMicrosoft_Extensions_FileProviders_Abstractions Condition=" '$(PkgMicrosoft_Extensions_FileProviders_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.fileproviders.abstractions\2.0.0</PkgMicrosoft_Extensions_FileProviders_Abstractions>
+    <PkgMicrosoft_Extensions_Configuration_Abstractions Condition=" '$(PkgMicrosoft_Extensions_Configuration_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.extensions.configuration.abstractions\2.0.0</PkgMicrosoft_Extensions_Configuration_Abstractions>
+    <PkgMicrosoft_AspNetCore_Http_Features Condition=" '$(PkgMicrosoft_AspNetCore_Http_Features)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.aspnetcore.http.features\2.0.0</PkgMicrosoft_AspNetCore_Http_Features>
+    <PkgMicrosoft_AspNetCore_Http_Abstractions Condition=" '$(PkgMicrosoft_AspNetCore_Http_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.aspnetcore.http.abstractions\2.0.0</PkgMicrosoft_AspNetCore_Http_Abstractions>
+    <PkgMicrosoft_AspNetCore_Hosting_Server_Abstractions Condition=" '$(PkgMicrosoft_AspNetCore_Hosting_Server_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.aspnetcore.hosting.server.abstractions\2.0.0</PkgMicrosoft_AspNetCore_Hosting_Server_Abstractions>
+    <PkgMicrosoft_AspNetCore_Hosting_Abstractions Condition=" '$(PkgMicrosoft_AspNetCore_Hosting_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.aspnetcore.hosting.abstractions\2.0.0</PkgMicrosoft_AspNetCore_Hosting_Abstractions>
+    <PkgMicrosoft_AspNetCore_Authentication_Abstractions Condition=" '$(PkgMicrosoft_AspNetCore_Authentication_Abstractions)' == '' ">C:\Users\Kai\.nuget\packages\microsoft.aspnetcore.authentication.abstractions\2.0.0</PkgMicrosoft_AspNetCore_Authentication_Abstractions>
+  </PropertyGroup>
+</Project>

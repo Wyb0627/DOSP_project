@@ -37,7 +37,7 @@ Where numNodesis the number of peers to be created in the peer to peer system an
 
 **Output:** Print the average number of hops (node connections) that have to be traversed to deliver a message.
 
-## Project 4.1
+## Project 4
 In this project, Twitter Clone and a client tester/simulator were implemented.
 
 1. Implement a Twitter like engine with the following functionality:
@@ -58,6 +58,6 @@ In this project, Twitter Clone and a client tester/simulator were implemented.
 
 
 ## Project 4.2
-Used WebSharper web framework to implement a WebSocket interface to the part I implementation.
+Used WebSharper web framework to implement a WebSocket interface to the part I (Project 4) implementation.
  - Re-write parts of the engine using WebSharper to implement the WebSocket interface.
  - Re-write parts of the client to use WebSockets.

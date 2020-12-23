@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>WebSharper.AspNetCore</name></assembly>
+<members>
+<member name="M:WebSharper.AspNetCore.ServiceExtensions.AddWebSharperRemoting``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,``0)">
+ <summary>
+ Add a remoting handler to be loaded on startup with <c>UseWebSharper</c>.
+ The client can invoke it using <c>WebSharper.JavaScript.Pervasives.Remote&lt;THandler&gt;</c>.
+ </summary>
+</member>
+<member name="M:WebSharper.AspNetCore.ServiceExtensions.AddWebSharperRemoting``2(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+ <summary>
+ Add a remoting handler to be loaded on startup with <c>UseWebSharper</c>.
+ The client can invoke it using <c>WebSharper.JavaScript.Pervasives.Remote&lt;THandler&gt;</c>.
+ </summary>
+</member>
+<member name="M:WebSharper.AspNetCore.ServiceExtensions.AddWebSharperRemoting``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+ <summary>
+ Add a remoting handler to be loaded on startup with <c>UseWebSharper</c>.
+ The client can invoke it using <c>WebSharper.JavaScript.Pervasives.Remote&lt;THandler&gt;</c>.
+ </summary>
+</member>
+<member name="M:WebSharper.AspNetCore.ServiceExtensions.AddSitelet``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,WebSharper.Sitelets.Sitelet{``0})">
+ <summary>
+ Add a sitelet to be loaded on startup with <c>UseWebSharper</c>.
+ </summary>
+</member>
+<member name="M:WebSharper.AspNetCore.ServiceExtensions.AddSitelet``1(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+ <summary>
+ Add a sitelet service to be loaded on startup with <c>UseWebSharper</c>.
+ </summary>
+</member>
+<member name="T:WebSharper.AspNetCore.IRemotingService">
+<summary>
+ Define a remoting handler to serve by WebSharper.
+</summary>
+</member>
+<member name="T:WebSharper.AspNetCore.SiteletService`1">
+<summary>
+ Define the sitelet to serve by WebSharper.
+</summary>
+</member>
+<member name="T:WebSharper.AspNetCore.ISiteletService">
+<summary>
+ Define the sitelet to serve by WebSharper.
+</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.UseSitelets(System.Boolean)">
+ <summary>Defines whether to serve Sitelets.</summary>
+ <remarks>
+ <para>
+ If true and the Sitelet is neither defined here nor in <c>ConfigureServices</c>,
+ looks for a Sitelet marked with <c>WebsiteAttribute</c> in the loaded assemblies.
+ </para>
+ <para>Default: true.</para>
+ </remarks>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.UseRemoting(System.Boolean)">
+ <summary>Defines whether to serve Remote functions.</summary>
+ <remarks>Default: true.</remarks>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Use(System.Func{Microsoft.AspNetCore.Builder.IApplicationBuilder,WebSharper.AspNetCore.WebSharperOptions,Microsoft.FSharp.Core.Unit})">
+ <summary>Adds an extra configuration step to execute that gets final the <c>WebSharperOptions</c> instance.</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Sitelet``1(WebSharper.Sitelets.Sitelet{``0})">
+ <summary>Defines the sitelet to serve.</summary>
+ <remarks>
+ Using <c>AddSitelet</c> in <c>ConfigureServices</c> is preferred.
+ </remarks>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Logger(Microsoft.Extensions.Logging.ILoggerFactory)">
+ <summary>Defines the logger factory for WebSharper internal messages.</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Logger(Microsoft.Extensions.Logging.ILogger)">
+ <summary>Defines the logger for WebSharper internal messages.</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Config(Microsoft.Extensions.Configuration.IConfiguration)">
+ <summary>Defines the configuration to be used by WebSharper.</summary>
+ <remarks>Default: the host configuration's "websharper" subsection.</remarks>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.Build">
+<summary>
+ Builds WebSharper options.
+</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.BinDir(System.String)">
+ <summary>Defines the directory to look for assemblies with WebSharper metadata.</summary>
+ <remarks>Default: the directory where WebSharper.AspNetCore.dll is located.</remarks>
+</member>
+<member name="M:WebSharper.AspNetCore.WebSharperBuilder.AuthenticationScheme(System.String)">
+ <summary>Defines the name of the authentication scheme to use for <c>Web.Context.UserSession</c>.</summary>
+ <remarks>Default: "WebSharper".</remarks>
+</member>
+<member name="T:WebSharper.AspNetCore.WebSharperBuilder">
+<summary>
+ Defines settings for a WebSharper application.
+</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.WebContextExtensions.HttpContext(WebSharper.Web.Context)">
+ <summary>Get the ASP.NET Core <c>HttpContext</c> for the current request.</summary>
+</member>
+<member name="M:WebSharper.AspNetCore.ApplicationBuilderExtensions.UseWebSharper(Microsoft.AspNetCore.Builder.IApplicationBuilder,System.Action{WebSharper.AspNetCore.WebSharperBuilder})">
+<summary>
+ Use the WebSharper server side.
+</summary>
+</member>
+<member name="P:WebSharper.AspNetCore.EnvKey.Context">
+<summary>
+ The WebSharper context.
+</summary>
+</member>
+<member name="T:WebSharper.AspNetCore.EnvKey">
+<summary>
+ The keys that WebSharper sets in the HttpContext.
+</summary>
+</member>
+</members>
+</doc>

@@ -61,3 +61,8 @@ In this project, Twitter Clone and a client tester/simulator were implemented.
 Used WebSharper web framework to implement a WebSocket interface to the part I (Project 4) implementation.
  - Re-write parts of the engine using WebSharper to implement the WebSocket interface.
  - Re-write parts of the client to use WebSockets.
+
+How to run this project: Open a terminal, and go into folder WebSharper.AspNetCore.Tests.DNC31, then use command “dotnet run” to run this program.Then, open “localhost:56446” in a browser, then you can begin to use this Tweet program by texting and clicking button.
+
+Functions(buttons) in website: Register(register account with), Twitter(send Tweet), Query(query for subscribed users’ tweets), QueryAt(query for tweets with given username), QueryTag(query for tweets with given tag), Subscribe(subscribe to a given user), Login(account login), Logout(account log out).
+Tweet users who are already logged in will receive tweets sent by users who they scribed.

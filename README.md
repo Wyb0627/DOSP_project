@@ -55,3 +55,9 @@ In this project, Twitter Clone and a client tester/simulator were implemented.
    
 3. Other considerations:  
    - The client part (send/receive tweets) and the engine (distribute tweets) are in separate processes.
+
+
+## Project 4.2
+Used WebSharper web framework to implement a WebSocket interface to the part I implementation.
+ - Re-write parts of the engine using WebSharper to implement the WebSocket interface.
+ - Re-write parts of the client to use WebSockets.

@@ -1,0 +1,212 @@
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.exe
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.deps.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.dev.json
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Common.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Runtime.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.xml
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsproj.CopyComplete
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.Manifest.cache
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.xml
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.genruntimeconfig.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsprojAssemblyReference.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfoInputs.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfo.fs
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.MvcApplicationPartsAssemblyInfo.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.exe
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.deps.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.dev.json
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Common.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Runtime.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.xml
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.pdb
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.xml
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsproj.CopyComplete
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.Manifest.cache
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.xml
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\UF\2020 Fall\DOSP\Project4Part2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.genruntimeconfig.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.exe
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.deps.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.dev.json
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Common.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Runtime.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.xml
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsproj.CopyComplete
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.Manifest.cache
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.xml
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\Project4Part2.2\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.genruntimeconfig.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.exe
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.deps.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.runtimeconfig.dev.json
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Collections.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Control.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.JavaScript.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Core.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.InterfaceGenerator.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JQuery.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.JavaScript.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Main.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Sitelets.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.Web.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Common.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.Runtime.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.Templating.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.UI.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.WebSocket.xml
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\bin\Debug\netcoreapp3.1\WebSharper.AspNetCore.xml
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsprojAssemblyReference.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfoInputs.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.AssemblyInfo.fs
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.fsproj.CopyComplete
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.Manifest.cache
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\staticwebassets\WebSharper.AspNetCore.Tests.DNC31.StaticWebAssets.xml
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.dll
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.pdb
+D:\Learning\DOSP\Project4.2\code\WebSharper.AspNetCore.Tests.DNC31\obj\Debug\netcoreapp3.1\WebSharper.AspNetCore.Tests.DNC31.genruntimeconfig.cache

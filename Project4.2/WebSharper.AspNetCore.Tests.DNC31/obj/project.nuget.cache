@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1qIXCq7db3zY2F+NrkPG9wxQN6AcRNlEUYS7EgPfCISpcF0Hn6Dww7ZukQItrdvPOTd+4DJf4mpwgkOLwHI2g==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\DOSP\\Project4.2\\code\\WebSharper.AspNetCore.Tests.DNC31\\WebSharper.AspNetCore.Tests.DNC31.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kai\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.0.0\\microsoft.aspnetcore.authentication.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.server.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.0.0\\microsoft.aspnetcore.http.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.0.0\\microsoft.aspnetcore.http.features.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.0.0\\microsoft.extensions.fileproviders.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.0.0\\microsoft.extensions.hosting.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.text.encodings.web\\4.4.0\\system.text.encodings.web.4.4.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\websharper\\4.7.0.423\\websharper.4.7.0.423.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\websharper.fsharp\\4.7.0.423\\websharper.fsharp.4.7.0.423.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\websharper.ui\\4.7.0.231\\websharper.ui.4.7.0.231.nupkg.sha512"
+  ],
+  "logs": []
+}
